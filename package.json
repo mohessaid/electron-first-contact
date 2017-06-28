@@ -1,0 +1,29 @@
+{
+  "name": "electron-first-contact",
+  "version": "1.0.0",
+  "description": "Fist contact with electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohessaid/electron-first-contact.git"
+  },
+  "keywords": [
+    "electron",
+    "desktop",
+    "javascript",
+    "html"
+  ],
+  "author": "Mohammed Essaid MEZERREG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohessaid/electron-first-contact/issues"
+  },
+  "homepage": "https://github.com/mohessaid/electron-first-contact#readme",
+  "devDependencies": {
+    "electron": "^1.6.11"
+  }
+}
